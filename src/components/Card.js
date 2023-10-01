@@ -8,7 +8,7 @@ export default function Card() {
                 <img src="../images/star.png" className="card--star" />
                 <span>5.0</span>
                 <span className="gray">(6) • </span>
-                <span className="gray">USA</span>
+                <span className="gray">US</span>
             </div>
             <p>Life Lessons with Katie Zafere</p>
             <p><span className="bold">From $136</span> / person</p>
