@@ -7,7 +7,7 @@ export default function Card() {
             <div className="card--stats">
                 <img src="../images/star.png" className="card--star" />
                 <span>5.0</span>
-                <span className="gray">(6) • </span>
+                <span className="gray">(5) • </span>
                 <span className="gray">US</span>
             </div>
             <p>Life Lessons with Katie Zafere</p>
